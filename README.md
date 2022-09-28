@@ -1,5 +1,5 @@
 # Sending 500k requests asynchronously ─ 2022 Zevent Place
-Durinmg the 2022 Zevent, a nice addition to previous editions was the [Zevent Place](https://place.zevent.fr/), largely inspired by [/r/place](https://www.reddit.com/r/place/). Supporters could donate by changing the colour of pixels, **but also** by increasing their level, making them more expensive to modify.
+During the 2022 Zevent, a nice addition to previous editions was the [Zevent Place](https://place.zevent.fr/), largely inspired by [/r/place](https://www.reddit.com/r/place/). Supporters could donate by changing the colour of pixels, **but also** by increasing their level, making them more expensive to modify.
 
 ### Final Zevent Place canvas
 The final 700x700 canvas is as follows.
