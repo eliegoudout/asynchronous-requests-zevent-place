@@ -15,6 +15,6 @@ Since there are about 500k pixels, it was unthinkable to loop through them by se
 
 As one could have guessed, the pixel on the top left was by far the most sought after! The final bid/donation on it was for 122.3€!! But other than that, it is fun to see that some of the designs were built on solid grounds, not only by repainting over and over again! Small and consensual logos didn't need much leveling up, while bigger, and maybe more dividing ones benefited from numerous pixel upgrades.
 
-To conclude, I think that the organizers will soon release the whole dataset, hence there will soon be absolutely no use to this code :)
+To conclude, I should mention that the organizers will soon release the whole dataset, hence there will soon be absolutely no use to this code :)
 
-Cheers
+Cheers!
