@@ -13,7 +13,7 @@ Since there are about 500k pixels, it was unthinkable to loop through them by se
 
 ![final_levels](https://user-images.githubusercontent.com/114467748/192801911-88f29ee4-cdac-43d3-a3fc-c38896352ccc.png)
 
-As one could have guessed, the pixel on the top left was by far the most sought after! The final bid/donation on it was for 122.3€!! But other than that, it is fun to see that lots of designs were built on solid grounds, not only by repainting over and over again!
+As one could have guessed, the pixel on the top left was by far the most sought after! The final bid/donation on it was for 122.3€!! But other than that, it is fun to see that some of the designs were built on solid grounds, not only by repainting over and over again! Small and consensual logos didn't need much leveling up, while bigger, and maybe dividing ones benefited from numerous pixel upgrades.
 
 To conclude, I think that the organizers will soon release the whole dataset, hence there will soon be absolutely no use to this code :)
 
