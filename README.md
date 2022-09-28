@@ -11,7 +11,7 @@ I was curious to see which areas were defended the most during the event. I wrot
 
 Since there are about 500k pixels, it was unthinkable to loop through them by sending a request, waiting for the server to respond, and then carry on. This was thus a good opportunity to use the `aiohttp` module and asynchronous requests. The final result looks like this:
 
-![final_levels](https://user-images.githubusercontent.com/114467748/192801911-88f29ee4-cdac-43d3-a3fc-c38896352ccc.png)
+![final_levels](https://user-images.githubusercontent.com/114467748/192817824-ec49a779-01fe-4c4a-9697-e1a3a4fce204.png)
 
 As one could have guessed, the pixel on the top left was by far the most sought after! The final bid/donation on it was for 122.3€!! But other than that, it is fun to see that some of the designs were built on solid grounds, not only by repainting over and over again! Small and consensual logos didn't need much leveling up, while bigger, and maybe more dividing ones benefited from numerous pixel upgrades.
 
