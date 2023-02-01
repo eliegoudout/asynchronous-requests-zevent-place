@@ -9,6 +9,7 @@ The final 700x700 canvas is as follows.
 ### Where to fight your battles
 I was curious to see which areas were defended the most during the event. I wrote this piece of code to find it out. It is only meant for personnal use, but feel free to play around with it. Though one should be **aware of potential security issues** while using one's authorization key (Zevent Place requires users to be logged in to access the pixels' level data).
 
+#### Sequential or asynchronous?
 Since there are about 500k pixels, it was unthinkable to loop through them by sending a request, waiting for the server to respond, and then carry on. This was thus a good opportunity to use the `aiohttp` module and asynchronous requests. The final result looks like this:
 
 ![final_levels](https://user-images.githubusercontent.com/114467748/192817824-ec49a779-01fe-4c4a-9697-e1a3a4fce204.png)
