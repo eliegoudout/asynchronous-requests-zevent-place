@@ -1,4 +1,4 @@
-"""Written by Élie Goudout for personnal use
+""" Written by Élie Goudout for personnal use.
 
 The Zevent of 2022 took place from September 9 to September 11.
 A "Zevent Place", inspired from /r/place was created. The notable addition to the original concept
@@ -195,7 +195,8 @@ def plot_level_map(sector):
     data = get_level_data(sector)
     plot_level_map_from_data(data, sector)
 
-# Use example:
-sector = (217, 231, 259, 273)
-plot_level_map(sector)
+if __name__ == "__main__":
+    # Use example:
+    sector = (217, 231, 259, 273)
+    plot_level_map(sector)
 
